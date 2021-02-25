@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/SeWS/jar files/selenium jars/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/SeWS/jar files/selenium jars/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/SeWS/jar files/selenium jars/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/SeWS/jar files/selenium jars/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/SeWS/jar files/selenium jars/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/SeWS/jar files/selenium jars/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/SeWS/jar files/selenium jars/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/SeWS/jar files/Testng jars/jcommander.jar"/>
+	<classpathentry kind="lib" path="C:/SeWS/jar files/Testng jars/testng-6.8.jar"/>
+	<classpathentry kind="lib" path="C:/SeWS/jar files/excel jars/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/SeWS/jar files/excel jars/jxl-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/SeWS/jar files/excel jars/poi-3.10-FINAL (1).jar"/>
+	<classpathentry kind="lib" path="C:/SeWS/jar files/excel jars/poi-ooxml-3.10-FINAL.jar"/>
+	<classpathentry kind="lib" path="C:/SeWS/jar files/excel jars/poi-ooxml-schemas-3.10-FINAL.jar"/>
+	<classpathentry kind="lib" path="C:/SeWS/jar files/excel jars/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91970/Downloads/commons-io-2.2.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/91970/Downloads/log4j (1).jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
